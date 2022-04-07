@@ -12,6 +12,7 @@ After completing this project you will be able to:
 * Add, commit, and push those changes to Github using Git
 * Create a new branch
 * Create a pull request
+* Fork a project
 
 ## Guide
 
@@ -54,7 +55,7 @@ Let's add our name to a README file.
 
 1. Open up normally the file README.md using a IDE or basic text editor. I would personally use sublime.
 2. Go to the very bottom of the file where the section says "names"
-3. Add your name to this list, after your name and a space put the following ```- [x]```. This will appear as a checkmark.
+3. Add your name to this list, after your name and a space put the following ```:heavy_check_mark:```. This will appear as a checkmark.
 4. Save your changes but either manually clicking save or hitting Command and S
 
 ### Getting our changes on GitHub
@@ -82,6 +83,10 @@ Last you want to create a pull request to merge the develop branch into the main
 1. Go to the Pull requests tab inside of your version of the Github-Practice repository.
 2. New pull-request
 3. Add the rest of these later...
+
+### Names
+
+Bradley Gilmore :heavy_check_mark:
 
 ## License / Copyright
 
