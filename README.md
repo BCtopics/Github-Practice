@@ -81,7 +81,7 @@ To accept a pull request I will need to be added as a contributor. This allows m
 Last you want to create a pull request to merge the develop branch into the main branch. This add your name to the list.
 
 1. Go to the Pull requests tab inside of your version of the Github-Practice repository.
-2. New pull-request
+2. Click new pull-request
 3. Add the rest of these later...
 
 ### Names
