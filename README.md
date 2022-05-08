@@ -87,6 +87,7 @@ Last you want to create a pull request to merge the develop branch into the main
 ### Names
 
 Bradley Gilmore :heavy_check_mark:
+Chelsea Gilmore :heavy_check_mark:
 
 ## License / Copyright
 
