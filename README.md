@@ -38,7 +38,7 @@ Cloning a project is similar to downloading a project. By cloning this project f
 
 ### Create a new branch
 
-It's best practice to work off a develop branch, not master.
+It's best practice to work off a develop branch, not main.
 
 1. Let's create a new branch called develop. To do this type ```git checkout -b develop```
 2. You should now be on your new develop branch. To confirm this type ```git status``` it should mention what branch you are on.
